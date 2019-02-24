@@ -1,4 +1,4 @@
-# pyHopfieldNeuralNetwork
+# pyTableTennisNeuralNetwork
 ### Demonstration of Multi-Layer Neural Network for playing Pong game 
 
 ## Introduction
