@@ -2,7 +2,7 @@
 Copyright 2019, Aleksandar Stojimirovic <stojimirovic@yahoo.com>
 
 Licence: MIT
-Source: https://github.com/hooppler/pyHopfieldNeuralNetwork
+Source: https://github.com/hooppler/pyTableTennisNeuralNetwork
 """
 
 from math import *
